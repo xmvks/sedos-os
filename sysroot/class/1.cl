@@ -1,0 +1,6 @@
+[SeDOS Menu v1.0]
+[1. Run program]
+[2. Load Classes]
+[3. Prompt]
+[9. Power options]
+[0. Exit]

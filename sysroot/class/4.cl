@@ -1,0 +1,6 @@
+[Account Manager for SeDOS 1.0]
+[1. Change Password]
+[2. Check registered accounts]
+[3. Delete Password]
+[4. Permissions]
+[0. Exit]
