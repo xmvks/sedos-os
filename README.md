@@ -19,4 +19,4 @@ It has:
     Complete!
 
 # App installing
-In re
+In _Packages_ Browse For App you want to Install.
