@@ -1,0 +1,1 @@
+wine sedos.cmd

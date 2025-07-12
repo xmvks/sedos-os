@@ -1,0 +1,3 @@
+# How to use
+
+Please put "config.sh, installrep.sh and sedos.sh all in SeDOS Root Directory."
